@@ -4,3 +4,9 @@ Temp
 Assembly-CSharp-Editor.csproj
 Assembly-CSharp.csproj
 Unity6Demo.sln
+PPv2URPConverters.csproj
+*.csproj
+UnityDemo.sln
+obj
+Logs
+obj
